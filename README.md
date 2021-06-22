@@ -1,6 +1,8 @@
 # CSSYoshi
 Rendering of a Yoshi using only CSS and HTML fundamentals.
 
+![CSSYoshi](https://user-images.githubusercontent.com/75280353/123004114-31399a80-d382-11eb-819e-da34ef208a5c.png)
+
 # Instructions
 1. Clone Repository.
 2. Open in source-code editor. (VSCode)

@@ -1,5 +1,5 @@
 # CSSYoshi
-Rendering of a Yoshi using only CSS and HTML fundamentals.
+Rendering of a Yoshi in the style of a social media banner using only CSS and HTML fundamentals.
 
 ![CSSYoshi](https://user-images.githubusercontent.com/75280353/123004114-31399a80-d382-11eb-819e-da34ef208a5c.png)
 

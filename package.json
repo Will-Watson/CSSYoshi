@@ -1,0 +1,14 @@
+{
+  "name": "cssyoshi",
+  "version": "1.0.0",
+  "description": "rendering of a Yoshi using only CSS and HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Watson",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
